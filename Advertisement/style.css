@@ -1,0 +1,83 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 25, 2017, 12:20:31 AM
+    Author     : Hayden
+*/
+ @font-face {
+     font-family:'EurostileExtended';
+     src: url('/static/545b3c25e4b09756ea1869ad/t/545b46abe4b05ddeffa7381e/1415268011488/eurostile%20extended.ttf')}
+ 
+ #Geico {
+     font-family:'EurostileExtended', sans-serif;
+     font-size: 60px;
+     font-weight:normal;
+ }
+#Header{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-weight:bold;
+    text-align:center;
+    font-size:80px;
+    color:white;
+    text-shadow: 4px 4px black;
+}
+#Border{
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:25px;
+    margin-bottom:35px;
+}
+#Body{
+    background-color:#C75459;
+    height: 90%;
+    width: 750px;
+}
+#Banner{
+    background-image:url(Banner.PNG);
+    display:inline-block;
+    max-width:100%;
+    max-height:100%;
+}
+.Main{
+    font-family:"Trebechet MS", Helvetica, sens-serif;
+    width:100%;
+    display:block;
+    color:white;
+    text-align:center;
+}
+#BannerText{
+    font-size:32px;
+    clear:both;
+    color:#C75459;
+    padding-left:170px;
+    padding-right:143px;
+    width:400px;
+    padding-top:35px;
+    font-weight:bold;
+}
+#Quote{
+    font-size:26px;
+    width:650px;
+    padding-left:50px;
+}
+#Information{
+    padding-top:52px;
+    font-size:26px;
+    color:white;
+}
+#tiny{
+    font-size:12px;
+}
+#Treadmill{
+    margin:0 auto;
+    display:block;
+}
+#Footer {
+    width:750px;
+    font-size:9.8px;
+    text-align: center;
+}
+/*https://image.issuu.com/150629180115-869ae25bbc0d9d7eed824d686c637692/jpg/page_81.jpg*/
